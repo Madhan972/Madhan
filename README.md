@@ -9,7 +9,7 @@ Currently: working on retail analytics dashboards, and learning advanced ML pipe
 ---
 
 ## 🔭 What I build
-- Test automation frameworks (Selenium, TestNG, Cucumber) for robust UI and regression testing.
+- Test automation (Selenium, TestNG, Cucumber) for robust UI and regression testing.
 - Data analysis & dashboards (Python, pandas, Power BI) for retail & analytics use-cases.
 - Small tools & scripts to automate repetitive QA tasks.
 
