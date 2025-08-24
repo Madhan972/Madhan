@@ -33,7 +33,7 @@ Currently: working on retail analytics dashboards, and learning advanced ML pipe
 
 ---
 
-## 🔹 Featured Projects  
+##  Projects  
 
 ### 📊 [Retail Analytics Capstone](https://github.com/<madhan972>/my-retail-analytics)  
 - Built an **interactive Power BI dashboard** using 9 datasets (Customers, Orders, Products, Payments, Reviews, Sellers, Geolocation, Categories, Order Items).  
